@@ -1,9 +1,9 @@
 # 📚 Cybersecurity Book Reading Plan
 
 ## Project Overview
-This project documents a **12-month book reading challenge** focused on cybersecurity. The goal is to read **one cybersecurity-related book per month** to build comprehensive knowledge in the field.
+This project documents a **12-month book reading challenge** focused on cybersecurity, progressing from beginner to advanced topics in defensive security and DevSecOps. The goal is to read **one cybersecurity-related book per month** to build comprehensive knowledge in the field.
 
-**Duration:** January 2026 - December 2026  
+**Duration:** January 2026 - December 2026
 **Total Books:** 12
 
 ---
@@ -23,7 +23,7 @@ This project documents a **12-month book reading challenge** focused on cybersec
 | **September** | [Identity and Access Management](Identity-and-Access-Management.md) | Principles and implementation of IAM systems for secure access control | ⏳ Not Started |
 | **October** | [Security Operations Center](Security-Operations-Center.md) | Building and managing SOC operations for continuous security monitoring | ⏳ Not Started |
 | **November** | [Advanced Persistent Threat Hacking](Advanced-Persistent-Threat-Hacking.md) | Understanding and defending against sophisticated, long-term cyber threats | ⏳ Not Started |
-| **December** | [The CISO Handbook](The-CISO-Handbook.md) | Leadership strategies and governance for chief information security officers | ⏳ Not Started |
+| **December** | [DevSecOps: A Culture and Engineering Practice](DevSecOps-A-Culture-and-Engineering-Practice.md) | Integrating security practices into DevOps culture and engineering workflows | ⏳ Not Started |
 
 ---
 
